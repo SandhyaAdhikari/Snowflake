@@ -55,7 +55,7 @@ In Snowflake, your workspace includes:
 * Worksheets (where you write SQL)
 
 ---
-Key Concepts
+what kind of etl
 
 * Data warehouse = centralized analytics storage
 * Snowflake = cloud data warehouse
